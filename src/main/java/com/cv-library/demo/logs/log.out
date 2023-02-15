@@ -1,0 +1,54 @@
+2023-02-12 23:02:415 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (2da8259670b1ab71fcf116176bc0ef42)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:833 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (2da8259670b1ab71fcf116176bc0ef42)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:39 INFO  HomePage :81 - Enter maximum salary50000
+2023-02-12 23:02:326 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (00121091031e5097621e9d4078239350)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:149 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (00121091031e5097621e9d4078239350)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:399 INFO  HomePage :81 - Enter maximum salary65000
+2023-02-12 23:02:440 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (0fa7ec3ddac843a3007de7d25284a3c3)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:612 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (0fa7ec3ddac843a3007de7d25284a3c3)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:746 INFO  HomePage :81 - Enter maximum salary40000
+2023-02-12 23:02:326 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (7f89c3323c0529e136480589062cc04d)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:506 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (7f89c3323c0529e136480589062cc04d)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:740 INFO  HomePage :81 - Enter maximum salary65000
+2023-02-12 23:02:229 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (94e306424d51df154ebbd72414577a56)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:499 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (94e306424d51df154ebbd72414577a56)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:631 INFO  HomePage :81 - Enter maximum salary50000
+2023-02-12 23:02:281 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (411b2e16a5fffe2bc350534e085aa891)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:452 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (411b2e16a5fffe2bc350534e085aa891)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:589 INFO  HomePage :81 - Enter maximum salary40000
+2023-02-12 23:02:934 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (75e71f881d4cf339f0d32a5c03625dbf)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:104 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (75e71f881d4cf339f0d32a5c03625dbf)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:234 INFO  HomePage :81 - Enter maximum salary60000
+2023-02-12 23:02:853 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (1eec40f154995712b2a2dd26b03cd144)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:39 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (1eec40f154995712b2a2dd26b03cd144)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:164 INFO  HomePage :81 - Enter maximum salary65000
+2023-02-12 23:02:830 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (0f13693bff8433aae755d271483252b2)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:03 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (0f13693bff8433aae755d271483252b2)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:70 INFO  HomePage :81 - Enter maximum salary40000
+2023-02-12 23:02:766 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (465a1c728250f9b022a134f8ef834653)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:871 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (465a1c728250f9b022a134f8ef834653)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:950 INFO  HomePage :81 - Enter maximum salary65000
+2023-02-12 23:02:788 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (f72c4cdc49b8c9048e60e88cab466f19)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:964 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (f72c4cdc49b8c9048e60e88cab466f19)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:98 INFO  HomePage :81 - Enter maximum salary40000
+2023-02-12 23:02:687 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (4c2a2dcf1a1eb3482bb735040e6ce903)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:797 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (4c2a2dcf1a1eb3482bb735040e6ce903)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:892 INFO  HomePage :81 - Enter maximum salary50000
+2023-02-12 23:02:780 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (e91156c669d33d3a6b2f84aa370a5592)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:935 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (e91156c669d33d3a6b2f84aa370a5592)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:49 INFO  HomePage :81 - Enter maximum salary40000
+2023-02-12 23:02:502 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (7b650fd14695975c9f744254857a1c18)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:686 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (7b650fd14695975c9f744254857a1c18)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:810 INFO  HomePage :81 - Enter maximum salary60000
+2023-02-12 23:02:486 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (2017a1ad76b93a3ea41908cfaefb2f3c)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:893 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (2017a1ad76b93a3ea41908cfaefb2f3c)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:26 INFO  HomePage :81 - Enter maximum salary65000
+2023-02-12 23:02:660 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (11565e1cc93f87ec462cc9cb09320332)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:821 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (11565e1cc93f87ec462cc9cb09320332)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:950 INFO  HomePage :81 - Enter maximum salary40000
+2023-02-12 23:02:888 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (3a29aab9b40f4fadbe7f854cc0a03237)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:41 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (3a29aab9b40f4fadbe7f854cc0a03237)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:171 INFO  HomePage :81 - Enter maximum salary65000
+2023-02-12 23:02:47 INFO  HomePage :73 - Click on more search option[[ChromeDriver: chrome on WINDOWS (72c3160630925aba22e6cf816075bce3)] -> xpath: //button[@id='toggle-hp-search']]
+2023-02-12 23:02:441 INFO  HomePage :77 - Enter minimum salary[[ChromeDriver: chrome on WINDOWS (72c3160630925aba22e6cf816075bce3)] -> xpath: //input[@id='salarymin']]
+2023-02-12 23:02:587 INFO  HomePage :81 - Enter maximum salary40000
